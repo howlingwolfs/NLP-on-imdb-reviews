@@ -1,0 +1,11 @@
+pandas
+numpy
+re
+nltk
+tensorflow
+keras
+matplotlib
+seaborn
+wordcloud
+bs4
+requests
